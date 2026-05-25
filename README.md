@@ -26,6 +26,8 @@ The playbooks are bilingual for easy execution:
     See more projects on <a href="https://github.com/abdulrdeveloper">GitHub</a>
   </sub>
 </div>
+------
+<br/>
 
 *Keep learning. Keep optimizing.*
 
